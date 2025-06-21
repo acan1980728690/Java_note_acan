@@ -1,0 +1,1 @@
+﻿标准输入流，编译类型InputStream，运行类型BufferedInputStream
