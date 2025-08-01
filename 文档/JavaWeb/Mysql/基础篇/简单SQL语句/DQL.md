@@ -1,7 +1,7 @@
 ﻿### 基本语法
 ---
 ```
-SELECT
+SELECT（DISTINCT //不包含重复值）
         字段列表
 FROM
         表名列表
