@@ -1,4 +1,6 @@
 ### Java个人学习笔记
 ---
 
-这是个人的Java笔记，打算学习包含Java语言到JavaWeb所有基础的部分，使用eDiary编写文档并导出，有需要的自取即可
+个人java学习笔记，需要自取，使用markdown格式
+
+全部内容在个人博客上均由：[acan的个人博客](https://acan1980728690.github.io/)
