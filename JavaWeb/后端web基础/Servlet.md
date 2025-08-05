@@ -1,54 +1,10 @@
 ---
 title: Servlet
-date: 2025-08-02 18:48:04
-tags:
-categories:
-    - java
-    - Web
-    - 后端基础
+published: 2025-08-02 18:48:04
+tags: [JavaWeb,后端web基础]
+category: 后端Web基础
+draft: false
 ---
-
-- [简介](#简介)
-- [servlet开发](#servlet开发)
-- [Servlet注解配置](#servlet注解配置)
-- [Servlet生命周期](#servlet生命周期)
-  - [生命周期简介](#生命周期简介)
-- [Servlet继承结构](#servlet继承结构)
-  - [Servlet接口](#servlet接口)
-  - [抽象的类GenericServlet](#抽象的类genericservlet)
-  - [HttpServlet 抽象类](#httpservlet-抽象类)
-- [ServletConfig和ServletContent](#servletconfig和servletcontent)
-  - [ServletConfig](#servletconfig)
-  - [ServletContext](#servletcontext)
-  - [ServletContext其他重要API](#servletcontext其他重要api)
-- [HttpServletRequest](#httpservletrequest)
-  - [简介](#简介-1)
-  - [HttpServletRequest常见api](#httpservletrequest常见api)
-    - [获取请求行信息相关](#获取请求行信息相关)
-    - [获取请求头信息相关](#获取请求头信息相关)
-    - [获取请求参数相关](#获取请求参数相关)
-    - [其他API](#其他api)
-- [HttpServletResponse](#httpservletresponse)
-  - [简介](#简介-2)
-  - [API](#api)
-    - [设置响应行相关](#设置响应行相关)
-    - [设置响应头相关](#设置响应头相关)
-    - [设置响应体相关](#设置响应体相关)
-    - [其他API](#其他api-1)
-- [请求转发和响应重定向](#请求转发和响应重定向)
-  - [概述](#概述)
-  - [请求转发](#请求转发)
-  - [响应重定向](#响应重定向)
-- [Web乱码和路径问题总结](#web乱码和路径问题总结)
-  - [乱码问题](#乱码问题)
-    - [Get和Post请求乱码](#get和post请求乱码)
-    - [响应乱码问题](#响应乱码问题)
-  - [路径问题](#路径问题)
-    - [相对路径和绝对路径](#相对路径和绝对路径)
-    - [重定向和请求转发](#重定向和请求转发)
-- [MVC架构模式](#mvc架构模式)
-
-
 ## 简介
 
 用来接收、处理客户端请求、响应给浏览器的动态资源。在整个web应用中，Servlet主要负责接收处理请求、协同调度功能以及响应数据。我们可以把Servlet成为Web应用中的控制器

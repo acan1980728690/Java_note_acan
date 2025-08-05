@@ -1,9 +1,9 @@
 ---
 title: REST风格
-date: 2025-08-01 19:50:32
-tags:
-categories:
-    - 通用Web基础
+published: 2025-08-01 19:50:32
+tags: []
+category: 通用web基础
+draft: false
 ---
 
 REST（Representational State Transfer），表述性状态转换，它是一种软件架构风格

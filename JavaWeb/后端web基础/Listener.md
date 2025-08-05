@@ -1,24 +1,13 @@
 ---
 title: Listener
-date: 2025-08-02 19:10:19
-tags:
-categories:
-    - java
-    - Web
-    - 后端基础
+published: 2025-08-02 19:10:19
+tags: [JavaWeb,后端web基础]
+category: 后端Web基础
+draft: false
 ---
 # Listener
 ---
 
-- [Listener](#listener)
-  - [概述](#概述)
-  - [监听器的六个主要接口](#监听器的六个主要接口)
-    - [application域监听器](#application域监听器)
-    - [session域监听器](#session域监听器)
-    - [request域监听器](#request域监听器)
-  - [Session域的两个特殊监听器（基本不用）](#session域的两个特殊监听器基本不用)
-    - [session绑定监听器](#session绑定监听器)
-    - [钝化活化监听器](#钝化活化监听器)
 
 
 ## 概述

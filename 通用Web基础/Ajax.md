@@ -1,9 +1,9 @@
 ---
 title: Ajax
-date: 2025-08-01 19:08:54
-tags:
-categories:
-    - 通用Web基础
+published: 2025-08-01 19:08:54
+tags: []
+category: 通用web基础
+draft: false
 ---
 
 [详细ajax](https://www.w3school.com.cn/js/js_ajax_http.asp)
