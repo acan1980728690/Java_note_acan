@@ -1,11 +1,12 @@
 ---
 title: Mybatis
 published: 2025-08-03 16:14:43
-tags: [JavaWeb,黑马SSM]
+tags: [JavaWeb,黑马SSM,Mybatis]
 category: 黑马SSM
 draft: false
 ---
 
+> 这个是黑马JavaWeb中我自己的笔记
 
 ## 介绍
 MyBatis是一款优秀的持久层（dao）框架，用于简化JDBC的开发
